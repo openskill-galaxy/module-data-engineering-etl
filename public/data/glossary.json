@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "et-glossary-001",
+    "term": "ETL",
+    "definition": "ETL说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-002",
+    "term": "ELT",
+    "definition": "ELT说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-003",
+    "term": "数据工程",
+    "definition": "数据工程说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-004",
+    "term": "数据管道",
+    "definition": "数据管道说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-005",
+    "term": "Airflow",
+    "definition": "Airflow说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-006",
+    "term": "DAG",
+    "definition": "DAG说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-007",
+    "term": "数据清洗",
+    "definition": "数据清洗说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-008",
+    "term": "数据质量",
+    "definition": "数据质量说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-009",
+    "term": "增量同步",
+    "definition": "增量同步说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-010",
+    "term": "CDC",
+    "definition": "CDC说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-011",
+    "term": "数据分层",
+    "definition": "数据分层说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-012",
+    "term": "数据血缘",
+    "definition": "数据血缘说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-013",
+    "term": "元数据",
+    "definition": "元数据说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-014",
+    "term": "批处理",
+    "definition": "批处理说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-015",
+    "term": "数据治理",
+    "definition": "数据治理说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-016",
+    "term": "ETL概念15",
+    "definition": "ETL概念15说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-017",
+    "term": "ETL概念16",
+    "definition": "ETL概念16说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-018",
+    "term": "ETL概念17",
+    "definition": "ETL概念17说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-019",
+    "term": "ETL概念18",
+    "definition": "ETL概念18说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-020",
+    "term": "ETL概念19",
+    "definition": "ETL概念19说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-021",
+    "term": "ETL概念20",
+    "definition": "ETL概念20说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-022",
+    "term": "ETL概念21",
+    "definition": "ETL概念21说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-023",
+    "term": "ETL概念22",
+    "definition": "ETL概念22说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-024",
+    "term": "ETL概念23",
+    "definition": "ETL概念23说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-025",
+    "term": "ETL概念24",
+    "definition": "ETL概念24说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-026",
+    "term": "ETL概念25",
+    "definition": "ETL概念25说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-027",
+    "term": "ETL概念26",
+    "definition": "ETL概念26说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-028",
+    "term": "ETL概念27",
+    "definition": "ETL概念27说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-029",
+    "term": "ETL概念28",
+    "definition": "ETL概念28说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-030",
+    "term": "ETL概念29",
+    "definition": "ETL概念29说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-031",
+    "term": "ETL概念30",
+    "definition": "ETL概念30说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-032",
+    "term": "ETL概念31",
+    "definition": "ETL概念31说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-033",
+    "term": "ETL概念32",
+    "definition": "ETL概念32说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-034",
+    "term": "ETL概念33",
+    "definition": "ETL概念33说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-035",
+    "term": "ETL概念34",
+    "definition": "ETL概念34说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-036",
+    "term": "ETL概念35",
+    "definition": "ETL概念35说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-037",
+    "term": "ETL概念36",
+    "definition": "ETL概念36说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-038",
+    "term": "ETL概念37",
+    "definition": "ETL概念37说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-039",
+    "term": "ETL概念38",
+    "definition": "ETL概念38说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-040",
+    "term": "ETL概念39",
+    "definition": "ETL概念39说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-041",
+    "term": "ETL概念40",
+    "definition": "ETL概念40说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-042",
+    "term": "ETL概念41",
+    "definition": "ETL概念41说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-043",
+    "term": "ETL概念42",
+    "definition": "ETL概念42说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-044",
+    "term": "ETL概念43",
+    "definition": "ETL概念43说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-045",
+    "term": "ETL概念44",
+    "definition": "ETL概念44说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-046",
+    "term": "ETL概念45",
+    "definition": "ETL概念45说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-047",
+    "term": "ETL概念46",
+    "definition": "ETL概念46说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-048",
+    "term": "ETL概念47",
+    "definition": "ETL概念47说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-049",
+    "term": "ETL概念48",
+    "definition": "ETL概念48说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-050",
+    "term": "ETL概念49",
+    "definition": "ETL概念49说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-051",
+    "term": "ETL概念50",
+    "definition": "ETL概念50说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-052",
+    "term": "ETL概念51",
+    "definition": "ETL概念51说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-053",
+    "term": "ETL概念52",
+    "definition": "ETL概念52说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-054",
+    "term": "ETL概念53",
+    "definition": "ETL概念53说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-055",
+    "term": "ETL概念54",
+    "definition": "ETL概念54说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-056",
+    "term": "ETL概念55",
+    "definition": "ETL概念55说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-057",
+    "term": "ETL概念56",
+    "definition": "ETL概念56说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-058",
+    "term": "ETL概念57",
+    "definition": "ETL概念57说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-059",
+    "term": "ETL概念58",
+    "definition": "ETL概念58说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-060",
+    "term": "ETL概念59",
+    "definition": "ETL概念59说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-061",
+    "term": "ETL概念60",
+    "definition": "ETL概念60说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-062",
+    "term": "ETL概念61",
+    "definition": "ETL概念61说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-063",
+    "term": "ETL概念62",
+    "definition": "ETL概念62说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-064",
+    "term": "ETL概念63",
+    "definition": "ETL概念63说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-065",
+    "term": "ETL概念64",
+    "definition": "ETL概念64说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-066",
+    "term": "ETL概念65",
+    "definition": "ETL概念65说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-067",
+    "term": "ETL概念66",
+    "definition": "ETL概念66说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-068",
+    "term": "ETL概念67",
+    "definition": "ETL概念67说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-069",
+    "term": "ETL概念68",
+    "definition": "ETL概念68说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-070",
+    "term": "ETL概念69",
+    "definition": "ETL概念69说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-071",
+    "term": "ETL概念70",
+    "definition": "ETL概念70说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-072",
+    "term": "ETL概念71",
+    "definition": "ETL概念71说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-073",
+    "term": "ETL概念72",
+    "definition": "ETL概念72说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-074",
+    "term": "ETL概念73",
+    "definition": "ETL概念73说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-075",
+    "term": "ETL概念74",
+    "definition": "ETL概念74说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-076",
+    "term": "ETL概念75",
+    "definition": "ETL概念75说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-077",
+    "term": "ETL概念76",
+    "definition": "ETL概念76说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-078",
+    "term": "ETL概念77",
+    "definition": "ETL概念77说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-079",
+    "term": "ETL概念78",
+    "definition": "ETL概念78说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-080",
+    "term": "ETL概念79",
+    "definition": "ETL概念79说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-081",
+    "term": "ETL概念80",
+    "definition": "ETL概念80说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-082",
+    "term": "ETL概念81",
+    "definition": "ETL概念81说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-083",
+    "term": "ETL概念82",
+    "definition": "ETL概念82说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-084",
+    "term": "ETL概念83",
+    "definition": "ETL概念83说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-085",
+    "term": "ETL概念84",
+    "definition": "ETL概念84说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-086",
+    "term": "ETL概念85",
+    "definition": "ETL概念85说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-087",
+    "term": "ETL概念86",
+    "definition": "ETL概念86说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-088",
+    "term": "ETL概念87",
+    "definition": "ETL概念87说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-089",
+    "term": "ETL概念88",
+    "definition": "ETL概念88说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-090",
+    "term": "ETL概念89",
+    "definition": "ETL概念89说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-091",
+    "term": "ETL概念90",
+    "definition": "ETL概念90说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-092",
+    "term": "ETL概念91",
+    "definition": "ETL概念91说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-093",
+    "term": "ETL概念92",
+    "definition": "ETL概念92说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-094",
+    "term": "ETL概念93",
+    "definition": "ETL概念93说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-095",
+    "term": "ETL概念94",
+    "definition": "ETL概念94说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-096",
+    "term": "ETL概念95",
+    "definition": "ETL概念95说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-097",
+    "term": "ETL概念96",
+    "definition": "ETL概念96说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-098",
+    "term": "ETL概念97",
+    "definition": "ETL概念97说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-099",
+    "term": "ETL概念98",
+    "definition": "ETL概念98说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-100",
+    "term": "ETL概念99",
+    "definition": "ETL概念99说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-101",
+    "term": "ETL概念100",
+    "definition": "ETL概念100说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-102",
+    "term": "ETL概念101",
+    "definition": "ETL概念101说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-103",
+    "term": "ETL概念102",
+    "definition": "ETL概念102说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-104",
+    "term": "ETL概念103",
+    "definition": "ETL概念103说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-105",
+    "term": "ETL概念104",
+    "definition": "ETL概念104说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-106",
+    "term": "ETL概念105",
+    "definition": "ETL概念105说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-107",
+    "term": "ETL概念106",
+    "definition": "ETL概念106说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-108",
+    "term": "ETL概念107",
+    "definition": "ETL概念107说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-109",
+    "term": "ETL概念108",
+    "definition": "ETL概念108说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-110",
+    "term": "ETL概念109",
+    "definition": "ETL概念109说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-111",
+    "term": "ETL概念110",
+    "definition": "ETL概念110说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-112",
+    "term": "ETL概念111",
+    "definition": "ETL概念111说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-113",
+    "term": "ETL概念112",
+    "definition": "ETL概念112说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-114",
+    "term": "ETL概念113",
+    "definition": "ETL概念113说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-115",
+    "term": "ETL概念114",
+    "definition": "ETL概念114说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-116",
+    "term": "ETL概念115",
+    "definition": "ETL概念115说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-117",
+    "term": "ETL概念116",
+    "definition": "ETL概念116说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-118",
+    "term": "ETL概念117",
+    "definition": "ETL概念117说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-119",
+    "term": "ETL概念118",
+    "definition": "ETL概念118说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-120",
+    "term": "ETL概念119",
+    "definition": "ETL概念119说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-121",
+    "term": "ETL概念120",
+    "definition": "ETL概念120说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-122",
+    "term": "ETL概念121",
+    "definition": "ETL概念121说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-123",
+    "term": "ETL概念122",
+    "definition": "ETL概念122说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-124",
+    "term": "ETL概念123",
+    "definition": "ETL概念123说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-125",
+    "term": "ETL概念124",
+    "definition": "ETL概念124说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-126",
+    "term": "ETL概念125",
+    "definition": "ETL概念125说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-127",
+    "term": "ETL概念126",
+    "definition": "ETL概念126说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-128",
+    "term": "ETL概念127",
+    "definition": "ETL概念127说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-129",
+    "term": "ETL概念128",
+    "definition": "ETL概念128说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-130",
+    "term": "ETL概念129",
+    "definition": "ETL概念129说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-131",
+    "term": "ETL概念130",
+    "definition": "ETL概念130说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-132",
+    "term": "ETL概念131",
+    "definition": "ETL概念131说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-133",
+    "term": "ETL概念132",
+    "definition": "ETL概念132说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-134",
+    "term": "ETL概念133",
+    "definition": "ETL概念133说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-135",
+    "term": "ETL概念134",
+    "definition": "ETL概念134说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-136",
+    "term": "ETL概念135",
+    "definition": "ETL概念135说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-137",
+    "term": "ETL概念136",
+    "definition": "ETL概念136说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-138",
+    "term": "ETL概念137",
+    "definition": "ETL概念137说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-139",
+    "term": "ETL概念138",
+    "definition": "ETL概念138说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-140",
+    "term": "ETL概念139",
+    "definition": "ETL概念139说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-141",
+    "term": "ETL概念140",
+    "definition": "ETL概念140说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-142",
+    "term": "ETL概念141",
+    "definition": "ETL概念141说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-143",
+    "term": "ETL概念142",
+    "definition": "ETL概念142说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-144",
+    "term": "ETL概念143",
+    "definition": "ETL概念143说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-145",
+    "term": "ETL概念144",
+    "definition": "ETL概念144说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-146",
+    "term": "ETL概念145",
+    "definition": "ETL概念145说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-147",
+    "term": "ETL概念146",
+    "definition": "ETL概念146说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-148",
+    "term": "ETL概念147",
+    "definition": "ETL概念147说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-149",
+    "term": "ETL概念148",
+    "definition": "ETL概念148说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-150",
+    "term": "ETL概念149",
+    "definition": "ETL概念149说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-151",
+    "term": "ETL概念150",
+    "definition": "ETL概念150说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-152",
+    "term": "ETL概念151",
+    "definition": "ETL概念151说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-153",
+    "term": "ETL概念152",
+    "definition": "ETL概念152说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-154",
+    "term": "ETL概念153",
+    "definition": "ETL概念153说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-155",
+    "term": "ETL概念154",
+    "definition": "ETL概念154说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-156",
+    "term": "ETL概念155",
+    "definition": "ETL概念155说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-157",
+    "term": "ETL概念156",
+    "definition": "ETL概念156说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-158",
+    "term": "ETL概念157",
+    "definition": "ETL概念157说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-159",
+    "term": "ETL概念158",
+    "definition": "ETL概念158说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-160",
+    "term": "ETL概念159",
+    "definition": "ETL概念159说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-161",
+    "term": "ETL概念160",
+    "definition": "ETL概念160说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-162",
+    "term": "ETL概念161",
+    "definition": "ETL概念161说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-163",
+    "term": "ETL概念162",
+    "definition": "ETL概念162说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-164",
+    "term": "ETL概念163",
+    "definition": "ETL概念163说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-165",
+    "term": "ETL概念164",
+    "definition": "ETL概念164说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-166",
+    "term": "ETL概念165",
+    "definition": "ETL概念165说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-167",
+    "term": "ETL概念166",
+    "definition": "ETL概念166说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-168",
+    "term": "ETL概念167",
+    "definition": "ETL概念167说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-169",
+    "term": "ETL概念168",
+    "definition": "ETL概念168说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-170",
+    "term": "ETL概念169",
+    "definition": "ETL概念169说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-171",
+    "term": "ETL概念170",
+    "definition": "ETL概念170说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-172",
+    "term": "ETL概念171",
+    "definition": "ETL概念171说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-173",
+    "term": "ETL概念172",
+    "definition": "ETL概念172说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-174",
+    "term": "ETL概念173",
+    "definition": "ETL概念173说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-175",
+    "term": "ETL概念174",
+    "definition": "ETL概念174说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-176",
+    "term": "ETL概念175",
+    "definition": "ETL概念175说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-177",
+    "term": "ETL概念176",
+    "definition": "ETL概念176说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-178",
+    "term": "ETL概念177",
+    "definition": "ETL概念177说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-179",
+    "term": "ETL概念178",
+    "definition": "ETL概念178说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-180",
+    "term": "ETL概念179",
+    "definition": "ETL概念179说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-181",
+    "term": "ETL概念180",
+    "definition": "ETL概念180说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-182",
+    "term": "ETL概念181",
+    "definition": "ETL概念181说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-183",
+    "term": "ETL概念182",
+    "definition": "ETL概念182说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-184",
+    "term": "ETL概念183",
+    "definition": "ETL概念183说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-185",
+    "term": "ETL概念184",
+    "definition": "ETL概念184说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-186",
+    "term": "ETL概念185",
+    "definition": "ETL概念185说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-187",
+    "term": "ETL概念186",
+    "definition": "ETL概念186说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-188",
+    "term": "ETL概念187",
+    "definition": "ETL概念187说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-189",
+    "term": "ETL概念188",
+    "definition": "ETL概念188说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-190",
+    "term": "ETL概念189",
+    "definition": "ETL概念189说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-191",
+    "term": "ETL概念190",
+    "definition": "ETL概念190说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-192",
+    "term": "ETL概念191",
+    "definition": "ETL概念191说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-193",
+    "term": "ETL概念192",
+    "definition": "ETL概念192说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-194",
+    "term": "ETL概念193",
+    "definition": "ETL概念193说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-195",
+    "term": "ETL概念194",
+    "definition": "ETL概念194说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-196",
+    "term": "ETL概念195",
+    "definition": "ETL概念195说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-197",
+    "term": "ETL概念196",
+    "definition": "ETL概念196说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-198",
+    "term": "ETL概念197",
+    "definition": "ETL概念197说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-199",
+    "term": "ETL概念198",
+    "definition": "ETL概念198说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-200",
+    "term": "ETL概念199",
+    "definition": "ETL概念199说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-201",
+    "term": "ETL概念200",
+    "definition": "ETL概念200说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-202",
+    "term": "ETL概念201",
+    "definition": "ETL概念201说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-203",
+    "term": "ETL概念202",
+    "definition": "ETL概念202说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-204",
+    "term": "ETL概念203",
+    "definition": "ETL概念203说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-205",
+    "term": "ETL概念204",
+    "definition": "ETL概念204说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-206",
+    "term": "ETL概念205",
+    "definition": "ETL概念205说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-207",
+    "term": "ETL概念206",
+    "definition": "ETL概念206说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-208",
+    "term": "ETL概念207",
+    "definition": "ETL概念207说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-209",
+    "term": "ETL概念208",
+    "definition": "ETL概念208说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-210",
+    "term": "ETL概念209",
+    "definition": "ETL概念209说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-211",
+    "term": "ETL概念210",
+    "definition": "ETL概念210说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-212",
+    "term": "ETL概念211",
+    "definition": "ETL概念211说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-213",
+    "term": "ETL概念212",
+    "definition": "ETL概念212说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-214",
+    "term": "ETL概念213",
+    "definition": "ETL概念213说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-215",
+    "term": "ETL概念214",
+    "definition": "ETL概念214说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-216",
+    "term": "ETL概念215",
+    "definition": "ETL概念215说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-217",
+    "term": "ETL概念216",
+    "definition": "ETL概念216说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-218",
+    "term": "ETL概念217",
+    "definition": "ETL概念217说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-219",
+    "term": "ETL概念218",
+    "definition": "ETL概念218说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-220",
+    "term": "ETL概念219",
+    "definition": "ETL概念219说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-221",
+    "term": "ETL概念220",
+    "definition": "ETL概念220说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-222",
+    "term": "ETL概念221",
+    "definition": "ETL概念221说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-223",
+    "term": "ETL概念222",
+    "definition": "ETL概念222说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-224",
+    "term": "ETL概念223",
+    "definition": "ETL概念223说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-225",
+    "term": "ETL概念224",
+    "definition": "ETL概念224说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-226",
+    "term": "ETL概念225",
+    "definition": "ETL概念225说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-227",
+    "term": "ETL概念226",
+    "definition": "ETL概念226说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-228",
+    "term": "ETL概念227",
+    "definition": "ETL概念227说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-229",
+    "term": "ETL概念228",
+    "definition": "ETL概念228说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-230",
+    "term": "ETL概念229",
+    "definition": "ETL概念229说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-231",
+    "term": "ETL概念230",
+    "definition": "ETL概念230说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-232",
+    "term": "ETL概念231",
+    "definition": "ETL概念231说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-233",
+    "term": "ETL概念232",
+    "definition": "ETL概念232说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-234",
+    "term": "ETL概念233",
+    "definition": "ETL概念233说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-235",
+    "term": "ETL概念234",
+    "definition": "ETL概念234说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-236",
+    "term": "ETL概念235",
+    "definition": "ETL概念235说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-237",
+    "term": "ETL概念236",
+    "definition": "ETL概念236说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-238",
+    "term": "ETL概念237",
+    "definition": "ETL概念237说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-239",
+    "term": "ETL概念238",
+    "definition": "ETL概念238说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-240",
+    "term": "ETL概念239",
+    "definition": "ETL概念239说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-241",
+    "term": "ETL概念240",
+    "definition": "ETL概念240说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-242",
+    "term": "ETL概念241",
+    "definition": "ETL概念241说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-243",
+    "term": "ETL概念242",
+    "definition": "ETL概念242说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-244",
+    "term": "ETL概念243",
+    "definition": "ETL概念243说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-245",
+    "term": "ETL概念244",
+    "definition": "ETL概念244说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-246",
+    "term": "ETL概念245",
+    "definition": "ETL概念245说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-247",
+    "term": "ETL概念246",
+    "definition": "ETL概念246说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-248",
+    "term": "ETL概念247",
+    "definition": "ETL概念247说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-249",
+    "term": "ETL概念248",
+    "definition": "ETL概念248说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-250",
+    "term": "ETL概念249",
+    "definition": "ETL概念249说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-251",
+    "term": "ETL概念250",
+    "definition": "ETL概念250说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-252",
+    "term": "ETL概念251",
+    "definition": "ETL概念251说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-253",
+    "term": "ETL概念252",
+    "definition": "ETL概念252说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-254",
+    "term": "ETL概念253",
+    "definition": "ETL概念253说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-255",
+    "term": "ETL概念254",
+    "definition": "ETL概念254说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-256",
+    "term": "ETL概念255",
+    "definition": "ETL概念255说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-257",
+    "term": "ETL概念256",
+    "definition": "ETL概念256说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-258",
+    "term": "ETL概念257",
+    "definition": "ETL概念257说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-259",
+    "term": "ETL概念258",
+    "definition": "ETL概念258说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-260",
+    "term": "ETL概念259",
+    "definition": "ETL概念259说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-261",
+    "term": "ETL概念260",
+    "definition": "ETL概念260说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-262",
+    "term": "ETL概念261",
+    "definition": "ETL概念261说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-263",
+    "term": "ETL概念262",
+    "definition": "ETL概念262说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-264",
+    "term": "ETL概念263",
+    "definition": "ETL概念263说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-265",
+    "term": "ETL概念264",
+    "definition": "ETL概念264说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-266",
+    "term": "ETL概念265",
+    "definition": "ETL概念265说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-267",
+    "term": "ETL概念266",
+    "definition": "ETL概念266说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-268",
+    "term": "ETL概念267",
+    "definition": "ETL概念267说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-269",
+    "term": "ETL概念268",
+    "definition": "ETL概念268说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-270",
+    "term": "ETL概念269",
+    "definition": "ETL概念269说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-271",
+    "term": "ETL概念270",
+    "definition": "ETL概念270说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-272",
+    "term": "ETL概念271",
+    "definition": "ETL概念271说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-273",
+    "term": "ETL概念272",
+    "definition": "ETL概念272说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-274",
+    "term": "ETL概念273",
+    "definition": "ETL概念273说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-275",
+    "term": "ETL概念274",
+    "definition": "ETL概念274说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-276",
+    "term": "ETL概念275",
+    "definition": "ETL概念275说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-277",
+    "term": "ETL概念276",
+    "definition": "ETL概念276说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-278",
+    "term": "ETL概念277",
+    "definition": "ETL概念277说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-279",
+    "term": "ETL概念278",
+    "definition": "ETL概念278说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-280",
+    "term": "ETL概念279",
+    "definition": "ETL概念279说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-281",
+    "term": "ETL概念280",
+    "definition": "ETL概念280说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-282",
+    "term": "ETL概念281",
+    "definition": "ETL概念281说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-283",
+    "term": "ETL概念282",
+    "definition": "ETL概念282说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-284",
+    "term": "ETL概念283",
+    "definition": "ETL概念283说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-285",
+    "term": "ETL概念284",
+    "definition": "ETL概念284说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-286",
+    "term": "ETL概念285",
+    "definition": "ETL概念285说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-287",
+    "term": "ETL概念286",
+    "definition": "ETL概念286说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-288",
+    "term": "ETL概念287",
+    "definition": "ETL概念287说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-289",
+    "term": "ETL概念288",
+    "definition": "ETL概念288说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-290",
+    "term": "ETL概念289",
+    "definition": "ETL概念289说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-291",
+    "term": "ETL概念290",
+    "definition": "ETL概念290说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-292",
+    "term": "ETL概念291",
+    "definition": "ETL概念291说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-293",
+    "term": "ETL概念292",
+    "definition": "ETL概念292说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-294",
+    "term": "ETL概念293",
+    "definition": "ETL概念293说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-295",
+    "term": "ETL概念294",
+    "definition": "ETL概念294说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-296",
+    "term": "ETL概念295",
+    "definition": "ETL概念295说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-297",
+    "term": "ETL概念296",
+    "definition": "ETL概念296说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-298",
+    "term": "ETL概念297",
+    "definition": "ETL概念297说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-299",
+    "term": "ETL概念298",
+    "definition": "ETL概念298说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-300",
+    "term": "ETL概念299",
+    "definition": "ETL概念299说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-301",
+    "term": "ETL概念300",
+    "definition": "ETL概念300说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-302",
+    "term": "ETL概念301",
+    "definition": "ETL概念301说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-303",
+    "term": "ETL概念302",
+    "definition": "ETL概念302说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-304",
+    "term": "ETL概念303",
+    "definition": "ETL概念303说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-305",
+    "term": "ETL概念304",
+    "definition": "ETL概念304说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-306",
+    "term": "ETL概念305",
+    "definition": "ETL概念305说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-307",
+    "term": "ETL概念306",
+    "definition": "ETL概念306说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-308",
+    "term": "ETL概念307",
+    "definition": "ETL概念307说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-309",
+    "term": "ETL概念308",
+    "definition": "ETL概念308说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-310",
+    "term": "ETL概念309",
+    "definition": "ETL概念309说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-311",
+    "term": "ETL概念310",
+    "definition": "ETL概念310说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-312",
+    "term": "ETL概念311",
+    "definition": "ETL概念311说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-313",
+    "term": "ETL概念312",
+    "definition": "ETL概念312说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-314",
+    "term": "ETL概念313",
+    "definition": "ETL概念313说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-315",
+    "term": "ETL概念314",
+    "definition": "ETL概念314说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-316",
+    "term": "ETL概念315",
+    "definition": "ETL概念315说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-317",
+    "term": "ETL概念316",
+    "definition": "ETL概念316说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-318",
+    "term": "ETL概念317",
+    "definition": "ETL概念317说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-319",
+    "term": "ETL概念318",
+    "definition": "ETL概念318说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-320",
+    "term": "ETL概念319",
+    "definition": "ETL概念319说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-321",
+    "term": "ETL概念320",
+    "definition": "ETL概念320说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-322",
+    "term": "ETL概念321",
+    "definition": "ETL概念321说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-323",
+    "term": "ETL概念322",
+    "definition": "ETL概念322说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-324",
+    "term": "ETL概念323",
+    "definition": "ETL概念323说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-325",
+    "term": "ETL概念324",
+    "definition": "ETL概念324说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-326",
+    "term": "ETL概念325",
+    "definition": "ETL概念325说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-327",
+    "term": "ETL概念326",
+    "definition": "ETL概念326说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-328",
+    "term": "ETL概念327",
+    "definition": "ETL概念327说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-329",
+    "term": "ETL概念328",
+    "definition": "ETL概念328说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-330",
+    "term": "ETL概念329",
+    "definition": "ETL概念329说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-331",
+    "term": "ETL概念330",
+    "definition": "ETL概念330说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-332",
+    "term": "ETL概念331",
+    "definition": "ETL概念331说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-333",
+    "term": "ETL概念332",
+    "definition": "ETL概念332说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-334",
+    "term": "ETL概念333",
+    "definition": "ETL概念333说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-335",
+    "term": "ETL概念334",
+    "definition": "ETL概念334说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-336",
+    "term": "ETL概念335",
+    "definition": "ETL概念335说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-337",
+    "term": "ETL概念336",
+    "definition": "ETL概念336说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-338",
+    "term": "ETL概念337",
+    "definition": "ETL概念337说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-339",
+    "term": "ETL概念338",
+    "definition": "ETL概念338说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-340",
+    "term": "ETL概念339",
+    "definition": "ETL概念339说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-341",
+    "term": "ETL概念340",
+    "definition": "ETL概念340说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-342",
+    "term": "ETL概念341",
+    "definition": "ETL概念341说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-343",
+    "term": "ETL概念342",
+    "definition": "ETL概念342说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-344",
+    "term": "ETL概念343",
+    "definition": "ETL概念343说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-345",
+    "term": "ETL概念344",
+    "definition": "ETL概念344说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-346",
+    "term": "ETL概念345",
+    "definition": "ETL概念345说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-347",
+    "term": "ETL概念346",
+    "definition": "ETL概念346说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-348",
+    "term": "ETL概念347",
+    "definition": "ETL概念347说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-349",
+    "term": "ETL概念348",
+    "definition": "ETL概念348说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-350",
+    "term": "ETL概念349",
+    "definition": "ETL概念349说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-351",
+    "term": "ETL概念350",
+    "definition": "ETL概念350说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-352",
+    "term": "ETL概念351",
+    "definition": "ETL概念351说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-353",
+    "term": "ETL概念352",
+    "definition": "ETL概念352说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-354",
+    "term": "ETL概念353",
+    "definition": "ETL概念353说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-355",
+    "term": "ETL概念354",
+    "definition": "ETL概念354说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-356",
+    "term": "ETL概念355",
+    "definition": "ETL概念355说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-357",
+    "term": "ETL概念356",
+    "definition": "ETL概念356说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-358",
+    "term": "ETL概念357",
+    "definition": "ETL概念357说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-359",
+    "term": "ETL概念358",
+    "definition": "ETL概念358说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "et-glossary-360",
+    "term": "ETL概念359",
+    "definition": "ETL概念359说明",
+    "category": "ETL",
+    "tags": [
+      "ETL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

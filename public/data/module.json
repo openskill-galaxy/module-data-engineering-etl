@@ -1,0 +1,41 @@
+{
+  "id": "mod-data-engineering-etl",
+  "slug": "module-data-engineering-etl",
+  "title": "数据工程与ETL管道",
+  "subtitle": "面向数据分析进阶和数据工程入门者",
+  "description": "面向数据分析进阶数据工程入门和AI数据准备学习者的数据采集清洗ETL/ELT批处理增量同步数据质量任务调度数据管道数据治理与项目实战。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "数据工程",
+    "ETL",
+    "ELT",
+    "数据清洗",
+    "数据质量",
+    "Airflow",
+    "数据管道",
+    "数据治理"
+  ],
+  "estimatedHours": 170,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "📦",
+  "repoUrl": "https://github.com/openskill-galaxy/module-data-engineering-etl",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 84
+  }
+}
