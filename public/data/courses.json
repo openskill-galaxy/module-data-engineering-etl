@@ -34,7 +34,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-001",
+      "et-lesson-002",
+      "et-lesson-003",
+      "et-lesson-004",
+      "et-lesson-005",
+      "et-lesson-006",
+      "et-lesson-007",
+      "et-lesson-008",
+      "et-lesson-009",
+      "et-lesson-010",
+      "et-lesson-011",
+      "et-lesson-012",
+      "et-lesson-013"
+    ],
+    "summary": "数据工程定位、应用场景、学习路线。"
   },
   {
     "id": "et-course-02",
@@ -71,7 +87,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-014",
+      "et-lesson-015",
+      "et-lesson-016",
+      "et-lesson-017",
+      "et-lesson-018",
+      "et-lesson-019",
+      "et-lesson-020",
+      "et-lesson-021",
+      "et-lesson-022",
+      "et-lesson-023",
+      "et-lesson-024",
+      "et-lesson-025",
+      "et-lesson-026"
+    ],
+    "summary": "结构化半结构化非结构化数据、CSV/JSON/Excel/日志。"
   },
   {
     "id": "et-course-03",
@@ -108,7 +140,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-027",
+      "et-lesson-028",
+      "et-lesson-029",
+      "et-lesson-030",
+      "et-lesson-031",
+      "et-lesson-032",
+      "et-lesson-033",
+      "et-lesson-034",
+      "et-lesson-035",
+      "et-lesson-036",
+      "et-lesson-037",
+      "et-lesson-038",
+      "et-lesson-039"
+    ],
+    "summary": "常见数据格式的读取解析与校验。"
   },
   {
     "id": "et-course-04",
@@ -145,7 +193,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-040",
+      "et-lesson-041",
+      "et-lesson-042",
+      "et-lesson-043",
+      "et-lesson-044",
+      "et-lesson-045",
+      "et-lesson-046",
+      "et-lesson-047",
+      "et-lesson-048",
+      "et-lesson-049",
+      "et-lesson-050",
+      "et-lesson-051",
+      "et-lesson-052"
+    ],
+    "summary": "缺失值异常值重复值处理、字段标准化、类型转换。"
   },
   {
     "id": "et-course-05",
@@ -182,7 +246,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-053",
+      "et-lesson-054",
+      "et-lesson-055",
+      "et-lesson-056",
+      "et-lesson-057",
+      "et-lesson-058",
+      "et-lesson-059",
+      "et-lesson-060",
+      "et-lesson-061",
+      "et-lesson-062",
+      "et-lesson-063",
+      "et-lesson-064",
+      "et-lesson-065"
+    ],
+    "summary": "Extract/Transform/Load、ELT区别、工具选择。"
   },
   {
     "id": "et-course-06",
@@ -219,7 +299,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-066",
+      "et-lesson-067",
+      "et-lesson-068",
+      "et-lesson-069",
+      "et-lesson-070",
+      "et-lesson-071",
+      "et-lesson-072",
+      "et-lesson-073",
+      "et-lesson-074",
+      "et-lesson-075",
+      "et-lesson-076",
+      "et-lesson-077",
+      "et-lesson-078"
+    ],
+    "summary": "批量处理、增量策略、全量刷新、CDC入门。"
   },
   {
     "id": "et-course-07",
@@ -256,7 +352,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-079",
+      "et-lesson-080",
+      "et-lesson-081",
+      "et-lesson-082",
+      "et-lesson-083",
+      "et-lesson-084",
+      "et-lesson-085",
+      "et-lesson-086",
+      "et-lesson-087",
+      "et-lesson-088",
+      "et-lesson-089",
+      "et-lesson-090",
+      "et-lesson-091"
+    ],
+    "summary": "唯一性完整性准确性一致性及时性、校验规则。"
   },
   {
     "id": "et-course-08",
@@ -293,7 +405,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-092",
+      "et-lesson-093",
+      "et-lesson-094",
+      "et-lesson-095",
+      "et-lesson-096",
+      "et-lesson-097",
+      "et-lesson-098",
+      "et-lesson-099",
+      "et-lesson-100",
+      "et-lesson-101",
+      "et-lesson-102",
+      "et-lesson-103",
+      "et-lesson-104"
+    ],
+    "summary": "管道设计原则、依赖关系、重试、幂等性。"
   },
   {
     "id": "et-course-09",
@@ -330,7 +458,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-105",
+      "et-lesson-106",
+      "et-lesson-107",
+      "et-lesson-108",
+      "et-lesson-109",
+      "et-lesson-110",
+      "et-lesson-111",
+      "et-lesson-112",
+      "et-lesson-113",
+      "et-lesson-114",
+      "et-lesson-115",
+      "et-lesson-116",
+      "et-lesson-117"
+    ],
+    "summary": "Airflow DAG设计、Cron表达式、任务依赖、失败告警。"
   },
   {
     "id": "et-course-10",
@@ -367,7 +511,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-118",
+      "et-lesson-119",
+      "et-lesson-120",
+      "et-lesson-121",
+      "et-lesson-122",
+      "et-lesson-123",
+      "et-lesson-124",
+      "et-lesson-125",
+      "et-lesson-126",
+      "et-lesson-127",
+      "et-lesson-128",
+      "et-lesson-129",
+      "et-lesson-130"
+    ],
+    "summary": "REST API数据拉取、分页、限流、认证、文件同步。"
   },
   {
     "id": "et-course-11",
@@ -404,7 +564,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-131",
+      "et-lesson-132",
+      "et-lesson-133",
+      "et-lesson-134",
+      "et-lesson-135",
+      "et-lesson-136",
+      "et-lesson-137",
+      "et-lesson-138",
+      "et-lesson-139",
+      "et-lesson-140",
+      "et-lesson-141",
+      "et-lesson-142",
+      "et-lesson-143"
+    ],
+    "summary": "数据入库策略、分区设计、归档、备份。"
   },
   {
     "id": "et-course-12",
@@ -441,7 +617,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-144",
+      "et-lesson-145",
+      "et-lesson-146",
+      "et-lesson-147",
+      "et-lesson-148",
+      "et-lesson-149",
+      "et-lesson-150",
+      "et-lesson-151",
+      "et-lesson-152",
+      "et-lesson-153",
+      "et-lesson-154",
+      "et-lesson-155",
+      "et-lesson-156"
+    ],
+    "summary": "数据血缘、元数据、数据目录、脱敏、权限。"
   },
   {
     "id": "et-course-13",
@@ -478,7 +670,23 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-157",
+      "et-lesson-158",
+      "et-lesson-159",
+      "et-lesson-160",
+      "et-lesson-161",
+      "et-lesson-162",
+      "et-lesson-163",
+      "et-lesson-164",
+      "et-lesson-165",
+      "et-lesson-166",
+      "et-lesson-167",
+      "et-lesson-168",
+      "et-lesson-169"
+    ],
+    "summary": "完整ETL管道项目、数据清洗、调度、监控。"
   },
   {
     "id": "et-course-14",
@@ -515,6 +723,22 @@
       "会处理数据质量",
       "能完成项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "et-lesson-170",
+      "et-lesson-171",
+      "et-lesson-172",
+      "et-lesson-173",
+      "et-lesson-174",
+      "et-lesson-175",
+      "et-lesson-176",
+      "et-lesson-177",
+      "et-lesson-178",
+      "et-lesson-179",
+      "et-lesson-180",
+      "et-lesson-181",
+      "et-lesson-182"
+    ],
+    "summary": "数据工程面试题、场景题、简历准备。"
   }
 ]
